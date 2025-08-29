@@ -20,7 +20,7 @@ export const TIMELINE_DATA: TimelineItem[] = [
     title: "Nascimento do RedeCompras",
     description: "Com o passar dos anos e em busca de um nome mais norteado por uma visão estratégica, o supermercado “O Barateiro” foi substituído por “RedeCompras”, numa atitude ousada, que impulsionou o crescimento da empresa",
     icon: "🔄",
-    img: "/grc-uploads/CATEDRALH.jpg"
+    img: "/grc-uploads/redecompraslj2h.jpg"
   },
   {
     year: "2016",
@@ -34,7 +34,7 @@ export const TIMELINE_DATA: TimelineItem[] = [
     title: "Inauguração BomQuéSó",
     description: "Em 2021, o Grupo RedeCompras lançou o formato atacarejo, unindo preços de atacado com a praticidade do varejo, ampliando o poder de compra dos clientes e modernizando o conceito de compras na região. ",
     icon: "🛒",
-    img: "/grc-uploads/redecomprashx.jpeg"
+    img: "/grc-uploads/BQSH.jpg"
   },
   {
     year: "2024",

@@ -4,8 +4,8 @@ import { MapPin, Phone, Mail, Clock, MessageSquare } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const socialLinks = [
-  { label: "Instagram", href: "https://instagram.com/redecomprasoficial", icon: "https://cdn-icons-png.flaticon.com/512/1384/1384063.png" },
-  { label: "Facebook", href: "https://facebook.com/redecomprasoficial", icon: "https://cdn-icons-png.flaticon.com/512/1384/1384053.png" },
+  { label: "Instagram", href: "https://www.instagram.com/redecompras/", icon: "https://cdn-icons-png.flaticon.com/512/1384/1384063.png" },
+  { label: "Facebook", href: "https://www.facebook.com/RedeCompras?rdid=amLHcrpPDgR0Dqp8&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Cbu9W5ipR%2F#", icon: "https://cdn-icons-png.flaticon.com/512/1384/1384053.png" },
 ];
 
 const Footer: React.FC = () => (
@@ -129,7 +129,7 @@ const Footer: React.FC = () => (
             © {new Date().getFullYear()} Grupo RedeCompras. Todos os direitos reservados.
           </p>
           <p className="text-gray-500 text-xs mt-1">
-            CNPJ: 00.000.000/0001-00 | Inscrição Estadual: 000.000.000
+           
           </p>
         </div>
         

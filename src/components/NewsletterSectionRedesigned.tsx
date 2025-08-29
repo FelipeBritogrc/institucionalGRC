@@ -21,14 +21,14 @@ const NEWS = [
     date: "10/03/2024",
     category: "Expansão"
   },
-  {
-    id: "3",
-    title: "Corrida Saudável 2024",
-    img: "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    summary: "Evento reuniu colaboradores e comunidade em prol da saúde e bem-estar.",
-    date: "01/03/2024",
-    category: "Eventos"
-  }
+  // {
+  //   id: "3",
+  //   title: "Corrida Saudável 2024",
+  //   img: "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  //   summary: "Evento reuniu colaboradores e comunidade em prol da saúde e bem-estar.",
+  //   date: "01/03/2024",
+  //   category: "Eventos"
+  // }
 ];
 
 const NewsletterSectionRedesigned: React.FC = () => {

@@ -37,29 +37,29 @@ Esse movimento de expansão ocorre após um ano de resultados expressivos. Em 20
 
 Com foco contínuo em inovação, experiência do consumidor e fortalecimento logístico, o Grupo RedeCompras reafirma sua posição como uma das principais referências do varejo alimentar no Nordeste.`,
   },
-  {
-    id: "corrida-familia-redecompras",
-    title: "Corrida em Família - RedeCompras",
-    summary:
-      "Evento esportivo que promove saúde e bem-estar para toda a família, fortalecendo os laços comunitários em Campina Grande.",
-    img: "/grc-uploads/3fa3c839-7190-4930-bb5c-71e5ccaf3380.png",
-    detailImg: "/grc-uploads/bc0d9fbb-abe4-4af0-b5ab-33d2f4746602.png",
-    date: "17 de Agosto de 2025",
-    category: "EVENTOS",
-    readTime: "2 min",
-    author: "Equipe de Marketing",
-    subtitle:
-      "Percursos de 3km, 5km, 10km e 21km para diferentes perfis de participantes",
-    content: `O Grupo RedeCompras convida todos os clientes e a comunidade para a primeira edição da Corrida em Família - RedeCompras, que acontece no próximo dia 17 de agosto de 2025, no Parque do Povo, em Campina Grande. O evento tem como proposta incentivar a prática esportiva, promover momentos de lazer em família e fortalecer o vínculo da marca com a população local.
+//   {
+//     id: "corrida-familia-redecompras",
+//     title: "Corrida em Família - RedeCompras",
+//     summary:
+//       "Evento esportivo que promove saúde e bem-estar para toda a família, fortalecendo os laços comunitários em Campina Grande.",
+//     img: "/grc-uploads/3fa3c839-7190-4930-bb5c-71e5ccaf3380.png",
+//     detailImg: "/grc-uploads/bc0d9fbb-abe4-4af0-b5ab-33d2f4746602.png",
+//     date: "17 de Agosto de 2025",
+//     category: "EVENTOS",
+//     readTime: "2 min",
+//     author: "Equipe de Marketing",
+//     subtitle:
+//       "Percursos de 3km, 5km, 10km e 21km para diferentes perfis de participantes",
+//     content: `O Grupo RedeCompras convida todos os clientes e a comunidade para a primeira edição da Corrida em Família - RedeCompras, que acontece no próximo dia 17 de agosto de 2025, no Parque do Povo, em Campina Grande. O evento tem como proposta incentivar a prática esportiva, promover momentos de lazer em família e fortalecer o vínculo da marca com a população local.
 
-Com largada prevista para as 5h da manhã, a Corrida em Família contará com percursos de 3km, 5km, 10km e 21km, permitindo a participação de pessoas de todas as idades e níveis de preparo físico. As inscrições serão realizadas exclusivamente online.
+// Com largada prevista para as 5h da manhã, a Corrida em Família contará com percursos de 3km, 5km, 10km e 21km, permitindo a participação de pessoas de todas as idades e níveis de preparo físico. As inscrições serão realizadas exclusivamente online.
 
-Além do aspecto esportivo, a Corrida em Família busca também gerar impacto social positivo, com ações de sustentabilidade e incentivo à solidariedade. Parte da arrecadação será destinada a projetos sociais da região.
+// Além do aspecto esportivo, a Corrida em Família busca também gerar impacto social positivo, com ações de sustentabilidade e incentivo à solidariedade. Parte da arrecadação será destinada a projetos sociais da região.
 
-A entrega dos kits ocorrerá em data e local a serem divulgados em breve. Todos os participantes receberão camiseta oficial, número de peito e medalha de participação.
+// A entrega dos kits ocorrerá em data e local a serem divulgados em breve. Todos os participantes receberão camiseta oficial, número de peito e medalha de participação.
 
-Prepare seu tênis, convide a família e venha correr com a gente!
+// Prepare seu tênis, convide a família e venha correr com a gente!
 
-<InlineLink href="https://www.smcrono.com.br/evento/2185/corrida-em-familia-rede-compras">👉 Inscreva-se</InlineLink>`,
-  },
+// <InlineLink href="https://www.smcrono.com.br/evento/2185/corrida-em-familia-rede-compras">👉 Inscreva-se</InlineLink>`,
+//   },
 ];

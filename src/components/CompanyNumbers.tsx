@@ -159,7 +159,7 @@ const CompanyNumbers: React.FC = () => {
             </div>
             
             <h4 className="text-3xl lg:text-4xl font-bold text-white mb-6">
-              Mais de 30 Anos de História
+              Mais de 35 Anos de História
             </h4>
             
             <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">

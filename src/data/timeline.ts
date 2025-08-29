@@ -20,7 +20,7 @@ export const TIMELINE_DATA: TimelineItem[] = [
     title: "Nascimento do RedeCompras",
     description: "Com o passar dos anos e em busca de um nome mais norteado por uma visão estratégica, o supermercado “O Barateiro” foi substituído por “RedeCompras”, numa atitude ousada, que impulsionou o crescimento da empresa",
     icon: "🔄",
-    img: "/grc-uploads/redecomprashx.jpeg"
+    img: "/grc-uploads/CATEDRALH.jpg"
   },
   {
     year: "2016",

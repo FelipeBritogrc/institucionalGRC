@@ -4,7 +4,7 @@ import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import LoadingSpinner from "@/components/ui/LoadingSpinner";
 import ErrorBoundary from "@/components/ui/ErrorBoundary";
 
@@ -48,7 +48,7 @@ const App = () => (
       <TooltipProvider>
         <Toaster />
         <Sonner />
-        <BrowserRouter>
+        <BrowserRouter basename={import.meta.env.BASE_URL || '/'}>
           <Suspense fallback={<PageLoadingFallback />}>
             <Routes>
               <Route path="/" element={<Index />} />
@@ -61,6 +61,13 @@ const App = () => (
               <Route path="/noticias/historico" element={<NewsHistory />} />
               <Route path="/brands" element={<Brands />} />
               <Route path="/apps" element={<Apps />} />
+              {/* Redirect legacy routes */}
+              <Route path="/sobre" element={<Navigate to="/history" replace />} />
+              <Route path="/contato" element={<Navigate to="/contact" replace />} />
+              <Route path="/trabalhe-conosco" element={<Navigate to="/careers" replace />} />
+              <Route path="/etica" element={<Navigate to="/ethics" replace />} />
+              <Route path="/marcas" element={<Navigate to="/brands" replace />} />
+              <Route path="/aplicativos" element={<Navigate to="/apps" replace />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
           </Suspense>

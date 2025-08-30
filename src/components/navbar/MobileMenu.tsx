@@ -57,7 +57,7 @@ const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, onNavClick }) => {
               onClick={onNavClick}
               className="block px-4 py-3 text-[#282e76]/90 hover:text-[#282e76] hover:bg-[#0d7c3d]/10 rounded-xl transition-all duration-300 text-sm font-medium"
             >
-              REDECOMPRAS.COM
+              Redecompras.com
             </a>
             <Link 
               to="/careers" 
@@ -133,7 +133,7 @@ const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, onNavClick }) => {
               }}
               className="block px-4 py-3 text-[#282e76]/90 hover:text-[#282e76] hover:bg-[#0d7c3d]/10 rounded-xl transition-all duration-300 text-sm font-medium"
             >
-              ENCARTE
+              Encarte
             </a>
           </div>
         </motion.div>

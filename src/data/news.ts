@@ -25,7 +25,7 @@ export const NEWS_DATA = [
 
 A loja traz um conceito arquitetônico moderno e acolhedor, reforçando a presença da marca em um dos principais pontos da cidade e oferecendo uma experiência de compra mais prática e completa.
 
-Leia a matéria completa no site RedeCompras.
+Leia a matéria completa.
   
 
   <InlineLink href="https://g1.globo.com/pb/paraiba/especial-publicitario/redecompras/noticia/2025/10/23/redecompras-amplia-presenca-em-campina-grande-com-nova-loja-moderna.ghtml">👉 Leia mais  </InlineLink>  `,

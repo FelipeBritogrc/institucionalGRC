@@ -28,6 +28,11 @@ const MARCAS = [
     logo: "/grc-uploads/e1d4062b-70fe-4c4d-8dd3-9d3827420f79.png",
     alt: "Leal",
   },
+  {
+    name: "taonosso",
+    logo: "/grc-uploads/taonosso.png",
+    alt: "Leal",
+  },
 ];
 
 const BrandsSectionRedesigned = () => {
@@ -95,8 +100,8 @@ const BrandsSectionRedesigned = () => {
 
           {/* Segunda linha - 2 marcas centralizadas */}
           <div className="flex justify-center">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-12 max-w-2xl">
-              {MARCAS.slice(3, 5).map((marca, index) => (
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 lg:gap-12 max-w-2xl">
+              {MARCAS.slice(3, 6).map((marca, index) => (
                 <motion.div
                   key={index + 3}
                   initial={{ opacity: 0, scale: 0.8 }}

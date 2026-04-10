@@ -13,14 +13,14 @@ const NEWS = [
     date: "15/03/2024",
     category: "Empresa"
   },
-  {
-    id: "2",
-    title: "Nova Loja em Manaíra",
-    img: "https://images.pexels.com/photos/7681091/pexels-photo-7681091.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    summary: "Inauguração da mais nova unidade do Grupo RedeCompras na região de Manaíra.",
-    date: "10/03/2024",
-    category: "Expansão"
-  },
+  // {
+  //   id: "2",
+  //   title: "Nova Loja em Manaíra",
+  //   img: "https://images.pexels.com/photos/7681091/pexels-photo-7681091.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  //   summary: "Inauguração da mais nova unidade do Grupo RedeCompras na região de Manaíra.",
+  //   date: "10/03/2024",
+  //   category: "Expansão"
+  // },
   // {
   //   id: "3",
   //   title: "Corrida Saudável 2024",

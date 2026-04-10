@@ -17,7 +17,7 @@ const STATS = [
     }
   },
   {
-    number: "+1200",
+    number: "1500+",
     label: "Funcionários",
     icon: Users,
     color: "from-blue-500 to-indigo-600",
@@ -25,7 +25,7 @@ const STATS = [
     description: "Pessoas dedicadas ao nosso sucesso conjunto"
   },
   {
-    number: "9",
+    number: "10+",
     label: "Lojas",
     icon: Store,
     color: "from-emerald-500 to-green-600",

@@ -125,6 +125,39 @@ const NoticiaDetalhada = () => {
 
           {/* Featured Image with consistent aspect ratio */}
           <div className="mb-8">
+  <div 
+    className="overflow-hidden rounded-2xl shadow-2xl transition-all duration-500"
+    /* Usamos a cor de fundo do config para o efeito de "fundo infinito" */
+    style={{ backgroundColor: noticia.config?.backgroundColor || '#f3f4f6' }}
+  >
+    {/* Mudamos o AspectRatio para ser dinâmico:
+        No mobile, se houver aspectMobile no config, usamos ele, senão mantemos proporcional.
+    */}
+    <div className={`relative w-full ${noticia.config?.aspectMobile || 'aspect-video'} md:aspect-video`}>
+      <img 
+        src={imageToShow} 
+        alt={noticia.title} 
+        /* A MÁGICA:
+           - object-contain no mobile: garante que o texto (3k, 5k...) apareça inteiro.
+           - md:object-cover no desktop: preenche o espaço elegantemente.
+           - objectPosition: usa o que você definiu no NEWS_DATA.
+        */
+        className={`w-full h-full transition-all duration-300 ${
+          noticia.config?.backgroundColor 
+            ? 'object-contain md:object-cover' 
+            : 'object-cover'
+        }`}
+        style={{ 
+          objectPosition: noticia.config?.objectPosition || 'center'
+        }}
+      />
+    </div>
+  </div>
+</div>
+          
+          
+          
+          {/* <div className="mb-8">
             <div className="overflow-hidden rounded-2xl shadow-2xl">
               <AspectRatio ratio={16/9} className="bg-gray-100">
                 <img 
@@ -138,7 +171,7 @@ const NoticiaDetalhada = () => {
                 />
               </AspectRatio>
             </div>
-          </div>
+          </div> */}
 
           {/* Article Content */}
           <div className="prose prose-lg max-w-none">

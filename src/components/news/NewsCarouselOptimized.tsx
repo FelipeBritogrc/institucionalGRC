@@ -115,11 +115,11 @@ const NewsCarouselOptimized: React.FC = () => {
             >
               {/* Featured Image - Reduced aspect ratio */}
               <div className="relative overflow-hidden bg-gray-100">
-                <div className="aspect-[2.5/1]">
+                <div className="aspect-[16/9] md:aspect-[2.1/1] lg:aspect-[2.5/1]">
                   <img 
                     src={currentNews.img} 
                     alt={currentNews.title}
-                    className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
+                    className="w-full h-full  object-center transition-transform duration-500 hover:scale-105"
                     loading="eager"
                     decoding="async"
                   />

@@ -28,8 +28,8 @@ export const NEWS_DATA = [
       "Vocês pediram, e a gente ouviu! A Corrida em Família RedeCompras está de volta em 2026, ainda maior, mais especial e feita para todos vocês.",
     content: `A Corrida em Família nunca foi só nossa, ela sempre foi de vocês. E é por isso que estamos preparando mais uma edição inesquecível para reunir toda a família RedeCompras em um momento de energia, alegria e união.
 
-Em breve, as inscrições estarão abertas. Fique ligado e prepare-se para viver mais uma vez essa experiência incrível com a gente!
-  
+    as inscrições estarão abertas. Fique ligado e prepare-se para viver mais uma vez essa experiência incrível com a gente!
+    <InlineLink href="https://www.smcrono.com.br/evento/4124/corrida-em-familia-rede-compras">👉 Inscreva-se</InlineLink>
 `,
   },
   //<InlineLink href="https://www.smcrono.com.br/evento/2185/corrida-em-familia-rede-compras">👉 Inscreva-se</InlineLink>

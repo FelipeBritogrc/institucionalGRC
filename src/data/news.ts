@@ -10,7 +10,7 @@ export const ITEMS_PER_PAGE = 6;
 
 export const NEWS_DATA = [
   {
-    id: "nova-loja-partage-campina-2025",
+    id: "corrida-em-familia-2026",
     title: "Vem ai Corrida em Família RedeCompras 2026",
     summary:
       "Prepare-se para um dia de muita energia, diversão e união! Participe com a RedeCompras e viva uma experiência inesquecível em família.",

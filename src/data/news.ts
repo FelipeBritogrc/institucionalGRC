@@ -15,8 +15,8 @@ export const NEWS_DATA = [
       "Grupo RedeCompras anuncia a aquisição de duas unidades da DMA Distribuidora na Paraíba",
     summary:
       "As duas lojas são da bandeira Brasil Atacarejo e passarão a operar como RedeCompras Atacarejo, ampliando a presença do grupo em Campina Grande e João Pessoa",
-    img: "/grc-uploads/613bb7a6-29e0-458b-b3a7-8ca8b07ea99e.png",
-    detailImg: "/grc-uploads/613bb7a6-29e0-458b-b3a7-8ca8b07ea99e.png",
+    img: "/grc-uploads/RedeCompras-Supermercados-1170x780.jpg",
+    detailImg: "/grc-uploads/RedeCompras-Supermercados-1170x780.jpg",
     date: "05 de junho de 2026",
     category: "Negócios",
     readTime: "1 min",

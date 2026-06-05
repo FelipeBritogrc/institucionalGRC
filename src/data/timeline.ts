@@ -52,9 +52,9 @@ export const TIMELINE_DATA: TimelineItem[] = [
   },
   {
     year: "2025",
-    title: "Novos Projetos",
-    description: "Um ano de novos projetos e investimentos em expansão, com grandes expectativas para o futuro da RedeCompras.",
+    title: "RedeCompras Partage",
+    description: "Abertura da nova unidade marca o início de uma nova fase para o Grupo RedeCompras, com foco em modernização e conveniência",
     icon: "🏢",
-    img: "/grc-uploads/EMBREVE.jpg"
+    img: "/grc-uploads/RedeCompras-Supermercados-1170x780.jpg"
   }
 ];

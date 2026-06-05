@@ -10,14 +10,35 @@ export const ITEMS_PER_PAGE = 6;
 
 export const NEWS_DATA = [
   {
+    id: "novas-unidades-2026",
+    title:
+      "Grupo Rede Compras anuncia a aquisição de duas unidades da DMA Distribuidora na Paraíba",
+    summary:
+      "As duas lojas são da bandeira Brasil Atacarejo e passarão a operar como RedeCompras Atacarejo, ampliando a presença do grupo em Campina Grande e João Pessoa",
+    img: "/grc-uploads/613bb7a6-29e0-458b-b3a7-8ca8b07ea99e.png",
+    detailImg: "/grc-uploads/613bb7a6-29e0-458b-b3a7-8ca8b07ea99e.png",
+    date: "05 de junho de 2026",
+    category: "Negócios",
+    readTime: "1 min",
+    author: "Redação SuperHiper",
+    subtitle:
+      "As duas lojas são da bandeira Brasil Atacarejo e passarão a operar como RedeCompras Atacarejo, ampliando a presença do grupo em Campina Grande e João Pessoa",
+    content: `O Grupo Rede Compras anunciou nesta manhã de sexta-feira, dia 05 de junho, a aquisição de duas operações da DMA Distribuidora no estado da Paraíba, localizadas em Campina Grande, no bairro Estação Velha, e em João Pessoa, no bairro Ernani Sátyro, na BR-230. Ambas as  lojas operam sob a bandeira Brasil Atacarejo.
+
+A compra já foi notificada ao Cade — Conselho Administrativo de Defesa Econômica — e está sendo analisada, conforme exigência legal aplicável a operações entre grupos do porte das partes. Cada operação está sujeita a análise e aprovação próprias, e a consumação de cada transação se dará após a aprovação do órgão, dentro dos prazos legais.
+
+   Leia o comunicado detalhado <InlineLink href="https://www.superhiper.com.br/grupo-rede-compras-anuncia-a-aquisicao-de-duas-unidades-da-dma-na-paraiba/">👉 neste link </InlineLink>`,
+  },
+
+  {
     id: "corrida-em-familia-2026",
     title: "Vem ai Corrida em Família RedeCompras 2026",
     summary:
       "Prepare-se para um dia de muita energia, diversão e união! Participe com a RedeCompras e viva uma experiência inesquecível em família.",
     img: "/grc-uploads/CORRIDA2026.png",
     date: "10/04/2025",
-    category: "EXPANSÃO",
-    readTime: "3 min",
+    category: "CORRIDA",
+    readTime: "1 min",
     author: "RedeCompras",
     config: {
       objectPosition: "object-center",
@@ -64,30 +85,4 @@ export const NEWS_DATA = [
   // <InlineLink href="https://www.smcrono.com.br/evento/2185/corrida-em-familia-rede-compras">👉 Inscreva-se</InlineLink>`,
 
   // }
-
-  //    {
-  //      id: "corrida-familia-redecompras",
-  //     title: "Corrida em Família - RedeCompras",
-  //     summary:
-  //       "Evento esportivo que promove saúde e bem-estar para toda a família, fortalecendo os laços comunitários em Campina Grande.",
-  //     img: "/grc-uploads/3fa3c839-7190-4930-bb5c-71e5ccaf3380.png",
-  //     detailImg: "/grc-uploads/bc0d9fbb-abe4-4af0-b5ab-33d2f4746602.png",
-  //      date: "17 de Agosto de 2025",
-  //     category: "EVENTOS",
-  //     readTime: "2 min",
-  //     author: "Equipe de Marketing",
-  //     subtitle:
-  //        "Percursos de 3km, 5km, 10km e 21km para diferentes perfis de participantes",
-  //     content: `O Grupo RedeCompras convida todos os clientes e a comunidade para a primeira edição da Corrida em Família - RedeCompras, que acontece no próximo dia 17 de agosto de 2025, no Parque do Povo, em Campina Grande. O evento tem como proposta incentivar a prática esportiva, promover momentos de lazer em família e fortalecer o vínculo da marca com a população local.
-
-  //  Com largada prevista para as 5h da manhã, a Corrida em Família contará com percursos de 3km, 5km, 10km e 21km, permitindo a participação de pessoas de todas as idades e níveis de preparo físico. As inscrições serão realizadas exclusivamente online.
-
-  //  Além do aspecto esportivo, a Corrida em Família busca também gerar impacto social positivo, com ações de sustentabilidade e incentivo à solidariedade. Parte da arrecadação será destinada a projetos sociais da região.
-
-  //  A entrega dos kits ocorrerá em data e local a serem divulgados em breve. Todos os participantes receberão camiseta oficial, número de peito e medalha de participação.
-
-  //  Prepare seu tênis, convide a família e venha correr com a gente!
-
-  //  <InlineLink href="https://www.smcrono.com.br/evento/2185/corrida-em-familia-rede-compras">👉 Inscreva-se</InlineLink>`,
-  //    },
 ];

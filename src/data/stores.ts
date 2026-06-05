@@ -19,7 +19,7 @@ export const LOJAS: Store[] = [
     horario: "Seg-Sáb: 6h-21h | Dom: 7h-14h",
     destaque: "Centro da cidade",
     coords: "-7.217982168451253,-35.88077056297287",
-    mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.123456789!2d-35.88077056297287!3d-7.217982168451253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMTMnMDQuNyJTIDM1wrA1Mic1MS4xIlc!5e0!3m2!1spt-BR!2sbr!4v1234567890!5m2!1spt-BR!2sbr"
+    mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.077271871261!2d-35.8833454!3d-7.2179822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ac1e95e7c70c57%3A0x6ec0c544d67389c2!2sRedeCompras%20-%20Catedral!5e0!3m2!1spt-BR!2sbr!4v1717596000000"
   },
   {
     nome: "RedeCompras Feira de Flores",
@@ -69,7 +69,7 @@ export const LOJAS: Store[] = [
     horario: "Seg-Sáb: 7h-22h | Dom: 7h-20h",
     destaque: "João Pessoa",
     coords: "-7.084907754658828,-34.84552210463792",
-    mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.123456789!2d-34.84552210463792!3d-7.084907754658828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMTMnMDQuNyJTIDM1wrA1Mic1MS4xIlc!5e0!3m2!1spt-BR!2sbr!4v1234567890!5m2!1spt-BR!2sbr"
+    mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7918.704157912826!2d-34.8455221!3d-7.085120700000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7acdd808a0d7699%3A0x5cc7b886d02df4fe!2sRedeCompras%20-%20Aeroclube!5e0!3m2!1spt-BR!2sbr!4v1780670928219!5m2!1spt-BR!2sbr"
   },
   {
     nome: "RedeCompras Intermares",
@@ -100,5 +100,14 @@ export const LOJAS: Store[] = [
     destaque: "BomQuéSó",
     coords: "-7.240141526994634,-35.90983678744202",
     mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.123456789!2d-35.90983678744202!3d-7.240141526994634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMTMnMDQuNyJTIDM1wrA1Mic1MS4xIlc!5e0!3m2!1spt-BR!2sbr!4v1234567890!5m2!1spt-BR!2sbr"
+  },{
+    nome: "RedeCompras Partage",
+    endereco: "Av: Prefeito Severino Bezerra Cabral - Catolé ",
+    cidade: "Campina Grande - PB, 58410-185",
+    telefone: "(83) 2102-5342",
+    horario: "Seg-Sáb: 7h-22h | Dom: 7h-20h",
+    destaque: "Partage",
+    coords: "-7.243321392763084,-35.85776332523987",
+    mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.978186307963!2d-35.8577633!3d-7.2433214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ac1e9422855845%3A0x12a2965f9a41ec79!2sRedeCompras%20-%20Partage!5e0!3m2!1spt-BR!2sbr!4v1717596000000"
   }
 ];

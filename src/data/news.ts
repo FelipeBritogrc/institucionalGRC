@@ -12,7 +12,7 @@ export const NEWS_DATA = [
   {
     id: "novas-unidades-2026",
     title:
-      "Grupo Rede Compras anuncia a aquisição de duas unidades da DMA Distribuidora na Paraíba",
+      "Grupo RedeCompras anuncia a aquisição de duas unidades da DMA Distribuidora na Paraíba",
     summary:
       "As duas lojas são da bandeira Brasil Atacarejo e passarão a operar como RedeCompras Atacarejo, ampliando a presença do grupo em Campina Grande e João Pessoa",
     img: "/grc-uploads/613bb7a6-29e0-458b-b3a7-8ca8b07ea99e.png",
@@ -23,7 +23,7 @@ export const NEWS_DATA = [
     author: "Redação SuperHiper",
     subtitle:
       "As duas lojas são da bandeira Brasil Atacarejo e passarão a operar como RedeCompras Atacarejo, ampliando a presença do grupo em Campina Grande e João Pessoa",
-    content: `O Grupo Rede Compras anunciou nesta manhã de sexta-feira, dia 05 de junho, a aquisição de duas operações da DMA Distribuidora no estado da Paraíba, localizadas em Campina Grande, no bairro Estação Velha, e em João Pessoa, no bairro Ernani Sátyro, na BR-230. Ambas as  lojas operam sob a bandeira Brasil Atacarejo.
+    content: `O Grupo RedeCompras anunciou nesta manhã de sexta-feira, dia 05 de junho, a aquisição de duas operações da DMA Distribuidora no estado da Paraíba, localizadas em Campina Grande, no bairro Estação Velha, e em João Pessoa, no bairro Ernani Sátyro, na BR-230. Ambas as  lojas operam sob a bandeira Brasil Atacarejo.
 
 A compra já foi notificada ao Cade — Conselho Administrativo de Defesa Econômica — e está sendo analisada, conforme exigência legal aplicável a operações entre grupos do porte das partes. Cada operação está sujeita a análise e aprovação próprias, e a consumação de cada transação se dará após a aprovação do órgão, dentro dos prazos legais.
 
